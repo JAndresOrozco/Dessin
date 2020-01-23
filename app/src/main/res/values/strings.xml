@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Registro</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="edad">Edad</string>
+    <string name="register">Registrarse</string>
+    <string name="user">Nombre</string>
+    <string name="registro">Registro</string>
+    <string name="mostrar">Mostrar</string>
+    <string name="delete">Eliminar</string>
+    <string name="editar">Editar</string>
+</resources>
